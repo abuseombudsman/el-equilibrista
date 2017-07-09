@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "El blog personal del equilibrista!"
-date:   
+date:   2017-07-09 
 categories: equilibrista miembro
 ---
 # El blog personal del equilibrista!
